@@ -1,0 +1,50 @@
+body{
+    background-image: url("sfondohome.jpg");
+    background-size: 100% 110%;
+    font-family: 'Didact Gothic';
+}
+div{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 14px;
+    border: 10px solid;
+    border-color: rgb(48, 137, 221);
+    padding: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h1{
+    text-align: center;
+    font-size: 500%;
+    border: 10px solid;
+    border-radius: 14px;
+    line-height: 5;
+    color: rgb(255, 255, 255);
+}
+p{
+    text-align: center;
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+}
+button{
+    font-family: "Didact Gothic";
+    width: 20%;
+    height: 10%;
+    margin-left: 40.5%;
+    border-radius: 14px;
+    background-color: rgb(23, 93, 224);
+    box-shadow: 0 15px 10px -5px rgba(0, 0, 0, 0.5);
+    border-color: rgb(0, 68, 255);
+    font-size: 200%;
+    color: white;
+}
+button:hover{
+    box-shadow: 0 25px 10px -5px rgba(0, 0, 0, 0.5);
+    border: 5px solid  rgb(0, 60, 255);
+    background-color: rgb(0, 60, 255);
+}
